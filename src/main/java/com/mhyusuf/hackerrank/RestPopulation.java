@@ -62,7 +62,7 @@ public class RestPopulation {
     }
 
     public static void main(String[] args) {
-        int populationDensity = getPopulationDensity("Indonesia");
+        int populationDensity = getPopulationDensity("India");
         System.out.println("Population Density of Indonesia: " + populationDensity);
     }
 }
